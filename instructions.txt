@@ -22,9 +22,9 @@ To load in the images into your program use the opencv function ‘imread’.
 Then you can access the pixel data as per the sample program on moodle.
 
 Marks will be awarded for:
-•	Finding the threshold using the image histogram and performing the thresholding (15 marks)
+•	Finding the threshold using the image histogram and performing the thresholding (15 marks) - Done
 
-•	Performing the binary morphology to close any interior holes (15 marks)
+•	Performing the binary morphology to close any interior holes (15 marks) - Done
 
 •	Implementing connected component labelling to extract the regions (30 marks)
 
